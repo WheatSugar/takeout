@@ -1,10 +1,10 @@
-package takeout;
+package rush;
 
 import java.util.Random;
 import java.util.Scanner;
 
 
-public class takeout {
+public class seven {
     public static Scanner input=new Scanner(System.in);
     //外卖单号数组
     static String[] danhaoArr = new String[100];
